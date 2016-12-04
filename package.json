@@ -1,0 +1,9 @@
+{
+     "name": "rps-node",
+     "description": "test rock, paper, scissors web application",
+     "version": "0.0.1",
+     "dependencies": {
+        "express": "",
+        "socket.io": ""
+     }
+}
